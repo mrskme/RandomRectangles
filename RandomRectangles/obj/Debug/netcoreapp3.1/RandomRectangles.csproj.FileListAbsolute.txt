@@ -1,0 +1,13 @@
+C:\Users\GET\source\repos\RandomRectangles\RandomRectangles\obj\Debug\netcoreapp3.1\RandomRectangles.csprojAssemblyReference.cache
+C:\Users\GET\source\repos\RandomRectangles\RandomRectangles\obj\Debug\netcoreapp3.1\RandomRectangles.AssemblyInfoInputs.cache
+C:\Users\GET\source\repos\RandomRectangles\RandomRectangles\obj\Debug\netcoreapp3.1\RandomRectangles.AssemblyInfo.cs
+C:\Users\GET\source\repos\RandomRectangles\RandomRectangles\obj\Debug\netcoreapp3.1\RandomRectangles.csproj.CoreCompileInputs.cache
+C:\Users\GET\source\repos\RandomRectangles\RandomRectangles\bin\Debug\netcoreapp3.1\RandomRectangles.exe
+C:\Users\GET\source\repos\RandomRectangles\RandomRectangles\bin\Debug\netcoreapp3.1\RandomRectangles.deps.json
+C:\Users\GET\source\repos\RandomRectangles\RandomRectangles\bin\Debug\netcoreapp3.1\RandomRectangles.runtimeconfig.json
+C:\Users\GET\source\repos\RandomRectangles\RandomRectangles\bin\Debug\netcoreapp3.1\RandomRectangles.runtimeconfig.dev.json
+C:\Users\GET\source\repos\RandomRectangles\RandomRectangles\bin\Debug\netcoreapp3.1\RandomRectangles.dll
+C:\Users\GET\source\repos\RandomRectangles\RandomRectangles\bin\Debug\netcoreapp3.1\RandomRectangles.pdb
+C:\Users\GET\source\repos\RandomRectangles\RandomRectangles\obj\Debug\netcoreapp3.1\RandomRectangles.dll
+C:\Users\GET\source\repos\RandomRectangles\RandomRectangles\obj\Debug\netcoreapp3.1\RandomRectangles.pdb
+C:\Users\GET\source\repos\RandomRectangles\RandomRectangles\obj\Debug\netcoreapp3.1\RandomRectangles.genruntimeconfig.cache
