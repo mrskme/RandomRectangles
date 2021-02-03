@@ -50,7 +50,6 @@ namespace RandomRectangles
             {
                 Console.Write(cell.GetCharacter());
             }
-
             Console.Write("\n");
         }
 
