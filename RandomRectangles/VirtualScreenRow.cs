@@ -19,9 +19,8 @@ namespace RandomRectangles
 
         public void AddBoxTopRow(int boxX, int boxWidth)
         {
-            
             _row[boxX].AddUpperLeftCorner();
-            for (var i = 1; i < boxWidth - 1; i++)
+            for (var i = 1; i < boxWidth -1; i++)
             {
                 _row[boxX + i].AddHorizontal();
             }
@@ -50,7 +49,7 @@ namespace RandomRectangles
             {
                 Console.Write(cell.GetCharacter());
             }
-            Console.Write("\n");
+            Console.WriteLine();
         }
 
     }

@@ -31,7 +31,7 @@ namespace RandomRectangles
         } 
 
         public void AddHorizontal()
-        {// done
+        {
             Left = true;
             Right = true;
 
@@ -40,7 +40,7 @@ namespace RandomRectangles
         }
 
         public void AddVertical()
-        {//done
+        {
             Up = true;
             Down = true;
 
